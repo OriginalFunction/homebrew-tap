@@ -3,7 +3,6 @@
 class Conch < Formula
   desc "Floor-controlled message bus for AI agents"
   homepage "https://github.com/OriginalFunction/Conch"
-  version "1.0.1"
   license "MIT"
 
   on_macos do
