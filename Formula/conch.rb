@@ -7,23 +7,23 @@ class Conch < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/OriginalFunction/Conch/releases/download/v1.3.1/conch-1.3.1-darwin-arm64.tar.gz"
-      sha256 "17a1e62e8f31fe5f7656afa21d55e60408c80f96d782ba17c978bdf106b24ab7"
+      url "https://github.com/OriginalFunction/Conch/releases/download/v1.3.2/conch-1.3.2-darwin-arm64.tar.gz"
+      sha256 "51bdfac4eea22a5ed00329d3350c518d2deab313d4c529277f81e4b71567af62"
     end
     on_intel do
-      url "https://github.com/OriginalFunction/Conch/releases/download/v1.3.1/conch-1.3.1-darwin-amd64.tar.gz"
-      sha256 "e5b2c41f0899dba1fe0b523481feea69aacfaf8440e72f692980a00725f3235a"
+      url "https://github.com/OriginalFunction/Conch/releases/download/v1.3.2/conch-1.3.2-darwin-amd64.tar.gz"
+      sha256 "d3cf25639217f6dbc2365bc8bda032b0cc51c2519c2f09a568487d2ae11472a8"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/OriginalFunction/Conch/releases/download/v1.3.1/conch-1.3.1-linux-amd64.tar.gz"
-      sha256 "47f7a2758b64f4faa7a13350f70239c0d8652ffc768605b2c21ba8557684761d"
+      url "https://github.com/OriginalFunction/Conch/releases/download/v1.3.2/conch-1.3.2-linux-amd64.tar.gz"
+      sha256 "fb28abfbf70ecd2b1049be2eec5c9d28b3132fbb56063b10a04492ddd6232f54"
     end
     on_arm do
-      url "https://github.com/OriginalFunction/Conch/releases/download/v1.3.1/conch-1.3.1-linux-arm64.tar.gz"
-      sha256 "ddcabd31824f2d6a0ed715f2bb3898a23bd40dacdeb9dbb59f1f910c984bc89c"
+      url "https://github.com/OriginalFunction/Conch/releases/download/v1.3.2/conch-1.3.2-linux-arm64.tar.gz"
+      sha256 "87d77b234ea02fc1991fafb4d7e36a442b7606556336a7bd91fd105891701649"
     end
   end
 
